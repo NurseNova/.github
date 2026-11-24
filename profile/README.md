@@ -10,6 +10,7 @@ slide by slide, take practice questions, keep private notes and track their prog
 - **Courses:** presentations grouped into study courses — [see courses](https://nursenova.duckdns.org/courses)
 - **For GNM and B.Sc Nursing students**, and for exam preparation
 - **Membership:** extra members-only content, free during the launch offer — [membership](https://nursenova.duckdns.org/membership)
+- **All presentations by subject, updated daily:** [nursenova.github.io](https://nursenova.github.io)
 
 👉 **Visit [https://nursenova.duckdns.org](https://nursenova.duckdns.org)**
 
